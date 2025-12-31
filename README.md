@@ -5,6 +5,10 @@ This project performs basic arithmetic operations with an intuitive layout simil
 
 ---
 
+![image](https://github.com/sathvikamareddy/caluculator_application-using-tkinter/blob/3ee2bd87fc0efbdbceaad25f0166d68dac268579/calculator.png)
+
+---
+
 ## ✨ Features
 - Basic arithmetic operations (+, −, ×, ÷)
 - Clear (C) button to reset input
