@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator (Python Tkinter)
+## 🧮 Simple Calculator (Python Tkinter)
 
 A simple and interactive GUI calculator built using **Python** and **Tkinter**.  
 This project performs basic arithmetic operations with an intuitive layout similar to a real calculator.
